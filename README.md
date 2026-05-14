@@ -1,1 +1,2 @@
 # tiktok-verify
+tiktok-developers-site-verification=oGW3GGu8Ahki1Y9juVtx4lXTufajfbmD
